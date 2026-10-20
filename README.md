@@ -19,3 +19,4 @@ API REST para la gestión de artículos y ventas.
 2. Instalar dependencias: `npm install`
 3. Configurar `db.js` con tus datos de PostgreSQL.
 4. Ejecutar: `node index.js`
+5. El servidor corre en `http://localhost:3000`
